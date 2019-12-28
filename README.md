@@ -10,8 +10,8 @@ IIT Bombay Assignment
 
 
 ## Steps
-* Generate Synthetic data using this [Link](https://github.com/Sanster/text_renderer/)
-*
+* Generate Synthetic data using this [Link](https://github.com/Sanster/text_renderer/).
+* Use this repo for attention-ocr [Link](https://github.com/emedvedev/attention-ocr).
 *
 *
 
